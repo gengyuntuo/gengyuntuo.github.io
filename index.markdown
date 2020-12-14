@@ -4,3 +4,8 @@
 
 layout: home
 ---
+
+# 我的博客地址
+
+* [CSDN博客](https://blog.csdn.net/gengyuntuo)
+* [自建博客](http://gengyuntuo.qicp.vip:8080)
