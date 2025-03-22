@@ -1,0 +1,4 @@
+baseURL = 'gengyuntuo.github.io'
+languageCode = 'zh-cn'
+title = 'Life Journey'
+theme = 'stack'
